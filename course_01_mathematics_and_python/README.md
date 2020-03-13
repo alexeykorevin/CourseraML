@@ -1,7 +1,7 @@
 # Курс "Математика и Python для анализа данных"
 
 <p align="center">
-  <a href="https://www.coursera.org/specializations/machine-learning-data-analysis">
+  <a href="https://www.coursera.org/learn/mathematics-and-python">
     <img width="300" height="300" src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/d7/c45bf0b0d911e5965623dd71776f15/800x800-01.jpg?auto=format%2Ccompress&dpr=1">
   </a>
 </p>
