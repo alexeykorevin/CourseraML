@@ -12,6 +12,7 @@
 Специализация состоит из 6-ти курсов:
 
 1. [Математика и Python для анализа данных](https://github.com/alexeykorevin/CourseraML/tree/master/course_01_mathematics_and_python)
+
 2. [Обучение на размеченных данных](https://github.com/alexeykorevin/CourseraML/tree/master/course_02_supervised_learning)
 3. Поиск структуры в данных
 4. Построение выводов по данным
