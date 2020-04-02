@@ -14,7 +14,9 @@
 1. [Математика и Python для анализа данных](https://github.com/alexeykorevin/CourseraML/tree/master/course_01_mathematics_and_python)
 
 2. [Обучение на размеченных данных](https://github.com/alexeykorevin/CourseraML/tree/master/course_02_supervised_learning)
-3. Поиск структуры в данных
+
+3. [Поиск структуры в данных](https://github.com/alexeykorevin/CourseraML/tree/master/course_03_unsupervised_learning)
+
 4. Построение выводов по данным
 5. Прикладные задачи анализа данных
 6. Анализ данных: финальный проект
