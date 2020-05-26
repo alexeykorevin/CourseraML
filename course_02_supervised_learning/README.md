@@ -31,4 +31,13 @@
  * [Практическое задание] [Бэггинг и случайный лес](https://github.com/alexeykorevin/CourseraML/tree/master/course_02_supervised_learning/week_04/assignment_01)
  * Градиентный бустинг
  * [Практическое задание] [Градиентный бустинг своими руками](https://github.com/alexeykorevin/CourseraML/tree/master/course_02_supervised_learning/week_04/assignment_02)
+ 
+ ## Неделя 5. Нейронные сети и обзор методов
+ * Нейронные сети
+ * [Практическое задание] [Нейронные сети](https://github.com/alexeykorevin/CourseraML/tree/master/course_02_supervised_learning/week_05/assignment_01)
+ * Байесовская классификация и регрессия
+ * [Практическое задание] [Выбор семейства распределений в наивном байесе](https://github.com/alexeykorevin/CourseraML/tree/master/course_02_supervised_learning/week_05/assignment_02)
+ * Метрические алгоритмы и SVM
+ * [Практическое задание] [1NN против RandomForest](https://github.com/alexeykorevin/CourseraML/tree/master/course_02_supervised_learning/week_05/assignment_03)
+ * Теорема Байеса в машинном обучении
   
