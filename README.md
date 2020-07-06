@@ -18,5 +18,6 @@
 3. [Поиск структуры в данных](https://github.com/alexeykorevin/CourseraML/tree/master/course_03_unsupervised_learning)
 
 4. [Построение выводов по данным](https://github.com/alexeykorevin/CourseraML/tree/master/course_04_stats_for_data_analysis)
-5. Прикладные задачи анализа данных
+
+5. [Прикладные задачи анализа данных](https://github.com/alexeykorevin/CourseraML/tree/master/course_05_data_analysis_applications)
 6. Анализ данных: финальный проект
