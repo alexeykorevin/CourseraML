@@ -9,7 +9,7 @@
 Данный репозитарий содержит лекции и решенные задания по [cпециализации "Машинное обучение и анализ данных"](https://www.coursera.org/specializations/machine-learning-data-analysis)
 от Московского физико-технического института, Яндекс и E-Learning Development Fund.
 
-Специализация состоит из 6-ти курсов:
+Специализация состоит из следующих курсов:
 
 1. [Математика и Python для анализа данных](https://github.com/alexeykorevin/CourseraML/tree/master/course_01_mathematics_and_python)
 
