@@ -20,4 +20,3 @@
 4. [Построение выводов по данным](https://github.com/alexeykorevin/CourseraML/tree/master/course_04_stats_for_data_analysis)
 
 5. [Прикладные задачи анализа данных](https://github.com/alexeykorevin/CourseraML/tree/master/course_05_data_analysis_applications)
-6. Анализ данных: финальный проект
