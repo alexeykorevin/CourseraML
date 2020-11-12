@@ -11,12 +11,12 @@
 
 Специализация состоит из следующих курсов:
 
-1. [Математика и Python для анализа данных](https://github.com/alexeykorevin/CourseraML/tree/master/course_01_mathematics_and_python)
+1. [Математика и Python для анализа данных](course_01_mathematics_and_python)
 
-2. [Обучение на размеченных данных](https://github.com/alexeykorevin/CourseraML/tree/master/course_02_supervised_learning)
+2. [Обучение на размеченных данных](course_02_supervised_learning)
 
-3. [Поиск структуры в данных](https://github.com/alexeykorevin/CourseraML/tree/master/course_03_unsupervised_learning)
+3. [Поиск структуры в данных](course_03_unsupervised_learning)
 
-4. [Построение выводов по данным](https://github.com/alexeykorevin/CourseraML/tree/master/course_04_stats_for_data_analysis)
+4. [Построение выводов по данным](course_04_stats_for_data_analysis)
 
-5. [Прикладные задачи анализа данных](https://github.com/alexeykorevin/CourseraML/tree/master/course_05_data_analysis_applications)
+5. [Прикладные задачи анализа данных](course_05_data_analysis_applications)
