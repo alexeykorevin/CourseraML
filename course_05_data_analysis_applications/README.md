@@ -8,7 +8,7 @@
 
 ## Неделя 1. Бизнес-задачи
  * Прогнозирование временных рядов
- * [Практическое задание] [Прогнозирование уровня средней заработной платы в России](https://github.com/alexeykorevin/CourseraML/blob/master/course_05_data_analysis_applications/week_01/assignment/assignment.ipynb)
+ * [Практическое задание] [Прогнозирование уровня средней заработной платы в России](week_01/assignment/assignment.ipynb)
  * Анализ поведения пользователей
 
 ## Неделя 2. Анализ медиа
@@ -20,10 +20,10 @@
  * Текстовые данные и работа с ними
  * Продвинутые методы анализа текстов
  * Примеры задач анализа текстов
- * [Практическое задание] [Классификация текстов: спам-фильтр для SMS](https://github.com/alexeykorevin/CourseraML/blob/master/course_05_data_analysis_applications/week_03/assignment/assignment.ipynb)
+ * [Практическое задание] [Классификация текстов: спам-фильтр для SMS](week_03/assignment/assignment.ipynb)
  
 ## Неделя 4. Рекомендации и ранжирование
  * Ранжирование
  * Рекомендательные системы
- * [Практическое задание] [Рекомендательная система](https://github.com/alexeykorevin/CourseraML/blob/master/course_05_data_analysis_applications/week_04/assignment/assignment.ipynb)
+ * [Практическое задание] [Рекомендательная система](week_04/assignment/assignment.ipynb)
   
