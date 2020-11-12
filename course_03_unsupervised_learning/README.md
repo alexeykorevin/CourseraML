@@ -9,20 +9,20 @@
 ## Неделя 1. Кластеризация
  * Введение в кластеризацию
  * Подробнее о методах кластеризации
- * [Практическое задание] [Размещение баннеров](https://github.com/alexeykorevin/CourseraML/tree/master/course_03_unsupervised_learning/week_01/assignment)
+ * [Практическое задание] [Размещение баннеров](week_01/assignment)
 
 ## Неделя 2. Понижение размерности и матричные разложения
  *  Понижение размерности и отбор признаков
- * [Практическое задание] [Метод главных компонент](https://github.com/alexeykorevin/CourseraML/tree/master/course_03_unsupervised_learning/week_02/assignment)
+ * [Практическое задание] [Метод главных компонент](week_02/assignment)
  *  Матричные разложения
 
 ## Неделя 3. Визуализация и поиск аномалий
  * Поиск аномалий
  * Визуализация данных
- * [Практическое задание] [Визуализация данных](https://github.com/alexeykorevin/CourseraML/tree/master/course_03_unsupervised_learning/week_03/assignment)
+ * [Практическое задание] [Визуализация данных](week_03/assignment)
  
 ## Неделя 4. Тематическое моделирование
  * Тематическое моделирование-1
  * Тематическое моделирование-2
- * [Практическое задание] [Тематическое моделирование](https://github.com/alexeykorevin/CourseraML/tree/master/course_03_unsupervised_learning/week_04/assignment)
+ * [Практическое задание] [Тематическое моделирование](week_04/assignment)
   
